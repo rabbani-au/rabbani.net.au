@@ -1,0 +1,258 @@
+# showcase
+showcase:
+  enable: true
+  title: "Transform Your Vision into Creative Results"
+  subtitle: "Hi, I'm Rabbani."
+  description: "A Certified Project Manager, Consultant & Engineering Technologist.</a>"
+  #Connect with me on <a target='_blank' href='www.linkedin.com/in/mohdrabbani/'>LinkedIn
+  image:
+    x: "img/showcase/img1.png"
+    _2x: "img/showcase/img1.png"
+  imageMobile:
+    x: "img/showcase/img1.png"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "https://wa.me/message/IY7REKYEJ4WTG1"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "www.linkedin.com/in/mohdrabbani/"
+
+    - icon: "github"
+      URL: "https://github.com/askrabz"
+
+    - icon: "whatsapp"
+      URL: "https://wa.me/message/IY7REKYEJ4WTG1"
+
+    #- icon: "dribbble"
+    #  URL: "https://dribbble.com/radity"
+
+    #- icon: "behance"
+    #  URL: "https://www.behance.net/radity-digital"
+
+    #- icon: "youtube"
+    #  URL: "https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw"
+
+    #- icon: "instagram"
+    #  URL: "https://www.instagram.com/teamradity/"
+
+    #- icon: "facebook"
+    #  URL: "https://www.facebook.com/raditycom/"
+
+    #- icon: "codepen"
+    #  URL: "#"
+
+    #- icon: "yelp"
+    #  URL: "https://www.yelp.com/"
+
+# about
+about:
+  enable: true
+  title: "About Me"
+  content: 
+   '
+    <p class="lead"><h3><left>Delivering Excellence & Success</left></h3></p>
+    <p class="lead"><center>Proficient in Voice over Internet Protocol (VoIP), Telecommunications, and Unified Communication Technologies.</center></p>
+    <p class="lead"><b>Leveraging 19+ years of experience in:</b></p>
+    <p class="lead">- Project Management</p>
+    <p class="lead">- Service Delivery</p>
+    <p class="lead">- Engineering Management</p>
+    <p class="lead">- Consultation</p>
+  '
+  button:
+    icon: "icon-smile-fill"
+    btnText: "Succeed Today ->"
+    URL: "https://wa.me/message/IY7REKYEJ4WTG1"
+  image:
+    x: "img/who-am-i/IMG-1017-modified.png"
+    _2x: "img/who-am-i/IMG-1017-modified.png"
+
+# education
+education:
+  enable: true
+  title: "Qualifications"
+  items:
+    - university: "London Metropolitan University"
+      year: "2000-2003"
+      degree: "Bachelor of Science (BSc) with Honors, Computing and Information Technology"
+
+    - university: "Columbus University"
+      year: "2004-2006"
+      degree: "Masters in Business Administration (MBA) Major in Communications"
+
+# experience
+experience:
+  enable: true
+  title: "Summary"
+  description: "I’m a technology specialist working with business and technical teams from all over the world to help businesses and drive excellence. Predominately leading, planning, and implementing enterprise-level projects, improving operational efficiency, design & develop digital products and emerging cloud innovations."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "www.linkedin.com/in/mohdrabbani/"
+ # button2:
+ #   icon: "icon-profile-fill"
+ #   btnText: "Download My Resume"
+ #   URL: "#"
+
+  items:
+    - title: "19+ Years"
+      company: "IT, Telecom, & Managed Services"
+      duration: "Exprience"
+
+    - title: "150+"
+      company: "Small, Medium & Large Enterprises"
+      duration: "Sucessful Projects"
+
+    - title: "250 ~ 300"
+      company: "Azure, Google, Aws, Proxmox & others"
+      duration: "Managed nodes"
+
+# Client & Work
+client_and_work:
+  title: "Projects"
+  enable: true
+
+  clients:
+    - logo:
+        x: "img/clients/iaas-icon.png"
+        _2x: "img/clients/iaas-icon.png"
+      alt: "Infrastructure"
+
+    - logo:
+        x: "img/clients/paas-icon.png"
+        _2x: "img/clients/paas-icon.png"
+      alt: "Platform"
+
+    - logo:
+        x: "img/clients/SaaS.png"
+        _2x: "img/clients/SaaS.png"
+      alt: "Automation"
+
+    - logo:
+        x: "img/clients/monitoring-icon.png"
+        _2x: "img/clients/monitoring-icon.png"
+      alt: "Operations"
+
+    - logo:
+        x: "img/clients/cpbx.png"
+        _2x: "img/clients/cpbx.png"
+      alt: "CPBX"
+
+    - logo:
+        x: "img/clients/Teams.png"
+        _2x: "img/clients/Teams.png"
+      alt: "Teams"
+
+  works:
+    - title: "Class 4 - SoftSwitch"
+      description: "A carrier-grade Class 4 SIP Soft Switch with integrated real-time billing and intelligent routing subsystem. Suitable for Call Termination Service (CTS) and Transiting voice traffic."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/SSW.png"
+        _2x: "img/works/SSW.png"
+      is_even: true
+
+    - title: "Class 5 - Unified Communication & PBX"
+      description: "A highly scalable, distributed, cloud-based telephony platform designed to provide enterprise & carrier grade unified communication switching functions and features. Built-in open APIs for 3rd Party integrations with pre-built applications."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/cpbx-portal.png"
+        _2x: "img/works/cpbx-portal.png"
+      is_even: false
+
+    - title: "RM.SIP Proxy for Microsoft Teams"
+      description: "SIP RM.Proxy a.k.a Bespoke SBC for Microsoft Team - A high performance SIP proxy server designed to handle and dispatch SIP transactions between Microsoft Teams and any carrier grade class 4/5 soft switch or PBX. Seamless interconnection with effortless deployment. Supports TLS1.2+ encryption. Suitable for redundancy, load sharing & SBC."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/SBC.png"
+        _2x: "img/works/SBC.png"
+      is_even: true
+
+    - title: "Monitoring & Analyzer"
+      description: "SIP Monitoring & Analyzer By Homer - A robust, carrier-grade and modular VoIP and RTP capture framework for Analyzing and Monitoring with native support for all major OSS voice platforms and vendor-agnostic capture agents."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/sipcapture1.gif"
+        _2x: "img/works/sipcapture1.gif"
+      is_even: false
+
+    - title: "Zabbix Montoring"
+      description: "An enterprise-class with a single pane of glass view of your whole IT infrastructure stack."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/zabbix_dashboard.jpeg"
+        _2x: "img/works/zabbix_dashboard.jpeg"
+      is_even: true
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Tech Stack"
+  items:
+    - name: "Daniel Jordan"
+      position: "Phonet, CEO"
+      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+      image:
+        x: "img/testimonials/daniel-jordan.jpg"
+        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+
+    - name: "Jonathan Peters"
+      position: "Textic, CEO"
+      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+      image:
+        x: "img/testimonials/jonathan-peters.jpg"
+        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+
+    - name: "Antonio Willis"
+      position: "Cyberse, CEO"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      image:
+        x: "img/testimonials/antonio-willis.jpg"
+        _2x: "img/testimonials/antonio-willis@2x.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "+61 (0) 3 9998 0490"
+  email:
+    title: "Email"
+    email: '<a href="mailto:consult@rabbani.com.au">consult@rabbani.com.au</a>'
+  address:
+    title: "Address"
+    address: "Rabbani Pty Ltd<br />Melbourne, VIC 3024 Australia"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: true
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
