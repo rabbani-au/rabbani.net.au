@@ -31,7 +31,7 @@ theme = "raditian-free-hugo-theme"
   weight = 2
 
   [[menu.header]]
-  name = "Portfolio"
+  name = "TechWork"
   URL = "#portfolio"
   weight = 3
 
@@ -64,8 +64,8 @@ theme = "raditian-free-hugo-theme"
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
   [params.logo]
-    text1 = "Andreas"
-    text2 = "Ellure"
+    text1 = "R"
+    text2 = "Rabbani"
 
   [params.footer]
       copyright = "© Rabbani. All rights reserved."
