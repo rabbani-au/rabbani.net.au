@@ -244,7 +244,7 @@ contact:
     email: '<a href="mailto:consult@rabbani.com.au">consult@rabbani.com.au</a>'
   address:
     title: "Address"
-    address: "Rabbani Pty Ltd<br />Melbourne, VIC 3024 Australia"
+    address: "Melbourne<br />Victoria 3024 Australia"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
