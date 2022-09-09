@@ -153,8 +153,8 @@ client_and_work:
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/SSW1.png"
-        _2x: "img/works/SSW1.png"
+        x: "img/works/ssw5.png"
+        _2x: "img/works/ssw5.png"
       is_even: true
 
     - title: "Class 5 - Unified Communication & PBX"
