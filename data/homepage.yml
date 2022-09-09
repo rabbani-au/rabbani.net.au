@@ -190,7 +190,7 @@ client_and_work:
         _2x: "img/works/sipcapture1.gif"
       is_even: false
 
-    - title: "Zabbix Montoring"
+    - title: "Infrastructure Montoring"
       description: "An enterprise-class with a single pane of glass view of your whole IT infrastructure stack."
       button:
         icon: "icon-arrow-right"
