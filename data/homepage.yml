@@ -71,7 +71,7 @@ about:
 
 # education
 education:
-  enable: true
+  enable: false
   title: "Qualifications"
   items:
     - university: "London Metropolitan University"
