@@ -20,11 +20,11 @@ showcase:
     - icon: "linkedin"
       URL: "www.linkedin.com/in/mohdrabbani/"
 
-    - icon: "github"
-      URL: "https://github.com/askrabz"
+#    - icon: "github"
+#      URL: "https://github.com/askrabz"
 
-    - icon: "whatsapp"
-      URL: "https://wa.me/message/IY7REKYEJ4WTG1"
+#    - icon: "whatsapp"
+#      URL: "https://wa.me/message/IY7REKYEJ4WTG1"
 
  #   - icon: "dribbble"
  #     URL: "https://dribbble.com/radity"
