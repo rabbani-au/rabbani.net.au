@@ -11,10 +11,10 @@ showcase:
   imageMobile:
     x: "img/showcase/img1.png"
 
-  button:
-    icon: "icon-mail-fill"
-    btnText: "Contact"
-    URL: "https://wa.me/message/IY7REKYEJ4WTG1"
+ # button:
+ #   icon: "icon-mail-fill"
+ #   btnText: "Contact"
+ #   URL: "https://wa.me/message/IY7REKYEJ4WTG1"
 
   socialLinks:
     - icon: "linkedin"
