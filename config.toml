@@ -1,6 +1,6 @@
 baseURL = "https://rabbani.net.au/"
 languageCode = "en-us"
-theme = "raditian-free-hugo-theme"
+theme = "rabbani"
 
 # Plugins
 [params.plugins]
