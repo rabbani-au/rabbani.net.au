@@ -11,14 +11,14 @@ showcase:
   imageMobile:
     x: "img/showcase/img1.png"
 
- # button:
- #   icon: "icon-mail-fill"
- #   btnText: "Contact"
- #   URL: "https://wa.me/message/IY7REKYEJ4WTG1"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Reach out"
+    URL: "mailto:consult@rabbani.com.au"
 
-  socialLinks:
-    - icon: "linkedin"
-      URL: "www.linkedin.com/in/mohdrabbani/"
+  #socialLinks:
+  #  - icon: "linkedin"
+  #    URL: "www.linkedin.com/in/mohdrabbani/"
 
 #    - icon: "github"
 #      URL: "https://github.com/askrabz"
